@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archived_Data_Reader", "Archived_Data_Reader\Archived_Data_Reader.csproj", "{6E706CDB-1A24-403D-851E-7B1BC17FBAF1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6E706CDB-1A24-403D-851E-7B1BC17FBAF1}.Debug.ActiveCfg = Debug|.NET
+		{6E706CDB-1A24-403D-851E-7B1BC17FBAF1}.Debug.Build.0 = Debug|.NET
+		{6E706CDB-1A24-403D-851E-7B1BC17FBAF1}.Release.ActiveCfg = Release|.NET
+		{6E706CDB-1A24-403D-851E-7B1BC17FBAF1}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
